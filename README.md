@@ -5,4 +5,10 @@ A demo on how to use git hub
 
 This project requires Python 3 and the request package
 
-`python find_meteors.py`
+First install pipenv then:
+
+```
+pipenv install
+pipenv run python `find_meteors.py
+
+```
